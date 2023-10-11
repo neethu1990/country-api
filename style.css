@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+.select_Wrapper{
+    width:  70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+
+}
+#countryDataDisplay{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.card-title{
+    color:rgb(170, 84, 22);
+}
